@@ -9,5 +9,12 @@ rotate-z: 90
 
 # Consuming APIs
 
-* Most APIs have **Terms of Service**{.blue} <br />associated with them
+## The Problem
+
+* Most APIs have **Terms of Service** <br />associated with them
 * Use of the API constitutes tacit consent to the terms
+
+## The Solution
+
+* Apps.gov
+* Negotiate on behalf of Government
